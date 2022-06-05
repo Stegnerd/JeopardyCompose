@@ -4,6 +4,7 @@
     package="com.stegnerd.jeopardycompose">
 
     <application
+        android:name=".JeopardyApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
